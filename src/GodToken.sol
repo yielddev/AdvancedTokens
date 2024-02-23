@@ -2,7 +2,7 @@
 pragma solidity 0.8.20;
 import {ERC20} from "@openzeppelin/contracts@v5.0.0/token/ERC20/ERC20.sol";
 import {Ownable2Step} from "@openzeppelin/contracts@v5.0.0/access/Ownable2Step.sol";
-import {Ownable} from "@openzeppelin/contracts@v5.0.0/access/Ownable.sol";
+//import {Ownable} from "@openzeppelin/contracts@v5.0.0/access/Ownable.sol";
 // Add 2 step 
 /// @title God Token with owner wallet able to mint and spend any balance
 /// @author Yielddev
